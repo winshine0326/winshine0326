@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<h3>사소한 것부터 시작해 일상을 바꾸는 개발자, 류승찬 입니다</h3>
+<h3>프론트엔드 공부 중인, 류승찬 입니다</h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=270&section=header&text=Welcome%20to%20Winshine's%20Github&fontSize=40&fontColor=D3D3D3&textAlign=right&section=header" />
 
 <h2>Language & Stats🌱</h2>
